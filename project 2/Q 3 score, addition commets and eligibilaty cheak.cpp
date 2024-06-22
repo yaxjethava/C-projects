@@ -14,6 +14,7 @@ scanf("%d",&score);
 
 if(score>=85 && score<=100){
 	
+	
 	printf("Your grade is A.");
 	grade='A';
 
