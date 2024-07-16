@@ -1,0 +1,6 @@
+Fruit name : apple 
+Fruit color : blue
+
+Fruit name : orange 
+Fruit color : red
+
